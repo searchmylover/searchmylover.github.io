@@ -28,7 +28,7 @@ function FADJ() {
 
 function F1() {
   if ($("#tinder-ep").val().length < 1) {
-    alert("Make sure to type in your Tinder Email/phone number.")
+    alert("Make sure to type in your Instagram username,name and age correctly")
   } else {
     $(".T1").fadeOut(1500);
     setTimeout(function() {
